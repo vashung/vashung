@@ -3,11 +3,11 @@ Software Engineer specializing in Java and Spring Boot, with a strong foundation
 <!--
 **vashung/vashung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-* 🌍 I'm based in Bengalure, KA, India  
+* 🌍 I'm based in Bengaluru, KA, India  
 * 🖥️  See my portfolio at shungz-profile portfolio  
 * ✉️  You can contact me at vashungm@gmail.com  
-* 🧠  I'm learning I’m currently learning Nextjs and Microservices.  
-* ❓ Ask me about anything related to MERN stack and related technologies.  
+* 🧠  I’m currently learning NextJS, TailwindCSS and Microservices.  
+* ❓ Ask me about anything related to the MERN stack and related technologies.  
 * ⚡  I love reading 📖...  
 
 
