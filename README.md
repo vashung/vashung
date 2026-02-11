@@ -21,8 +21,8 @@ Software Engineer specializing in Java and Spring Boot, with a strong foundation
 
 ## Social
 [![My github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/vashung)
-[![My linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vashungm/)
+[![My linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vashungm/)  
 
 
-## Buy me Coffee  
+<!-- ## Buy me Coffee  -->
 <a href="https://buymeacoffee.com/vashung"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
